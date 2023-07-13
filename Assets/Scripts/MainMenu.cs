@@ -10,6 +10,7 @@ public class MainMenu : MonoBehaviour
         
     }
 
+    //I love amogus
     // Update is called once per frame
     void Update()
     {
